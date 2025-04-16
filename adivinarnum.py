@@ -1,3 +1,8 @@
+"""Escribe un programa que genere un número aleatorio entre 1 y 100 y
+permita al usuario adivinar el número. El programa debe brindar pistas
+(ej. el número secreto es mayor) y debe continuar pidiendo al usuario
+que adivine hasta que acierte. Al finalizar, debe mostrar el número de
+intentos."""
 import random
 
 def main():
